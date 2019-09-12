@@ -1,8 +1,6 @@
 main{
-position:relative;
-left: 50%;
-right: 50%;
-}
-body{
-    max-width: 50%;
+width: 1000px;
+position: absolute;;
+left: 25%;
+right: 15%;
 }
