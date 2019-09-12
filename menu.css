@@ -1,3 +1,5 @@
-.menu {
-background: blue;
+main{
+position:relative;
+left: 50%;
+right: 50%;
 }
