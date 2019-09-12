@@ -3,3 +3,6 @@ position:relative;
 left: 50%;
 right: 50%;
 }
+body{
+    max-width: 50%;
+}
