@@ -4,3 +4,6 @@ position: absolute;;
 left: 25%;
 right: 15%;
 }
+nav{
+    position: fixed;
+}
