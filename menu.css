@@ -6,14 +6,19 @@ body{
 main{
 width: 1000px;
 position: absolute;;
+top: 20%;
 left: 25%;
 right: 15%;
 }
 nav{
     position: fixed;
+    top: 5%;
+    left: 15%;
     color: azure;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 30px;
+    display: table;
+ 
 }
 a{
     position: fixed;
@@ -21,4 +26,9 @@ a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 30px;
     text-decoration: none;
+
+}
+.navbar{
+    display: inline;
+    margin: 100px;
 }
