@@ -2,7 +2,13 @@ div,article{
     color: yellow;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow: auto;
 }
 h1,h2{
     color:whitesmoke;
+}
+.border{
+    border: 2px solid grey;
+    padding: 5px;
+    width: 70%;
 }
