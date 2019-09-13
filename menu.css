@@ -1,3 +1,8 @@
+body{
+    background-image: url("milkway.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
 main{
 width: 1000px;
 position: absolute;;
@@ -6,9 +11,4 @@ right: 15%;
 }
 nav{
     position: fixed;
-}
-body{
-    background-image: url("Media\football foto.jpg");
-    background-size: cover;
-    background-attachment: fixed;
 }
