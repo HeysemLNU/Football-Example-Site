@@ -7,3 +7,8 @@ right: 15%;
 nav{
     position: fixed;
 }
+body{
+    background-image: url("Media\Milkway.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
