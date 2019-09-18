@@ -14,21 +14,21 @@ nav{
     position: fixed;
     top: 5%;
     left: 15%;
-    color: azure;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 30px;
-    display: table;
- 
 }
-a{
-    position: fixed;
+nav a{
     color: azure;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 30px;
     text-decoration: none;
-
+    transition: all;
+    transition-delay: 100ms;
 }
 .navbar{
     display: inline;
     margin: 100px;
+
 }
+nav a:hover{
+    font-size: 100px;
+}
+
