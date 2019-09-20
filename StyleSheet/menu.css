@@ -13,8 +13,8 @@ right: 15%;
 nav{
     position: fixed;
     top: 5%;
-    left: 15%;
-    right: 15%;
+    left: 12%;
+    right: 5%;
 }
 nav a{
     color: azure;
